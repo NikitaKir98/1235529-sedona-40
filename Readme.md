@@ -2,6 +2,7 @@
 
 * Студент: [Никита Кирпиченков](https://up.htmlacademy.ru/htmlcss/40/user/1235529).
 * Наставник: [Ирина Антипина](https://htmlacademy.ru/profile/id2108789).
+* Сайт: [Проект Седона](https://nikitakir98.github.io/1235529-sedona-40/).
 
 ---
 
