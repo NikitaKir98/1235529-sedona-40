@@ -51,6 +51,12 @@ body{
   text-align: center;
 }
 
+.navigation-button{
+  font-size: 16px;
+  line-height: 20px;
+  text-transform: uppercase;
+}
+
 /*Блок hero*/
 .hero{
   background-image: url("../images/background/hero-background.jpg");
